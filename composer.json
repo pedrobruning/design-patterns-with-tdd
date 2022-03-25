@@ -1,0 +1,14 @@
+{
+  "name": "bruning/design-patterns-with-tdd",
+  "description": "TDD and Design Patterns Project made for studies purposes.",
+  "authors": [
+    {
+      "name": "Pedro Henrique Bruning de Oliveira Schier",
+      "email": "pedro@bruning.dev"
+    }
+  ],
+  "require": {
+    "php": ">=8.1",
+    "phpunit/phpunit": "^9.5"
+  }
+}
