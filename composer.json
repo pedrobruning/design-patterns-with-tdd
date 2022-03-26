@@ -10,5 +10,10 @@
   "require": {
     "php": ">=8.1",
     "phpunit/phpunit": "^9.5"
+  },
+  "autoload": {
+    "psr-4": {
+      "Bruning\\TddDesignPatterns\\": "src/"
+    }
   }
 }
